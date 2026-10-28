@@ -25,7 +25,7 @@
 
 ## Код (`main.cpp`)
 
-``cpp
+```cpp
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -66,7 +66,7 @@ int main() {
 
 ## Сборка и запуск
 
-``bash
+```bash
 g++ -std=c++17 main.cpp -o main
 ./main
 
