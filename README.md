@@ -63,12 +63,14 @@ int main() {
 
     return 0;
 }
+```
 
 ## Сборка и запуск
 
 ```bash
 g++ -std=c++17 main.cpp -o main
 ./main
+```
 
 ## Результат
 
